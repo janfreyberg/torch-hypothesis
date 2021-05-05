@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "torch-hypothesis"
-version = "0.1.1"
+version = "0.2.0"
 description = "Generate pytorch data structures for the hypothesis testing library."
 authors = ["Jan Fryeberg <jan.freyberg@elementai.com>"]
 homepage = "https://github.com/janfreyberg/torch-hypothesis"
